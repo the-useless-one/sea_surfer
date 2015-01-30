@@ -20,7 +20,7 @@ I often have to demonstrate CSRF vulnerabilities during my pentests, and
 creating a Proof-of-Concept HTML page is kind of a pain in the ass. So I
 decided to create a little Python program to automate this task.
 
-Sea Surfer takes a file containing an HTTP request, and create an HTML page
+Sea Surfer takes a file containing an HTTP request, and creates an HTML page
 with a pre-filled form, which will be auto-sent with JavaScript.
 
 It's not the pretitest code, and I'm not the first guy to create something like
